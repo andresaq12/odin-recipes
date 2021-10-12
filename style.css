@@ -1,0 +1,42 @@
+body {
+  background-color: lightseagreen;
+}
+h1, h2 {
+  background-color: aquamarine;
+  color:sienna;
+  text-align: center;
+  font-family: 'Gill Sans', sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+img {
+  width: 30%;
+  margin: auto;
+  display: block;
+}
+
+p, ul, ol {
+  font-size: 18px;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: justify;
+  font-weight: 400;
+ }
+
+.link {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+}
